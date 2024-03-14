@@ -80,4 +80,4 @@ app.listen(port, () => {
 // You will see the message This is a POST request
 
 // Open the browser and go to localhost:3000/comments
-// You will see the message This is a
+// You will see the message This is a PUT request
